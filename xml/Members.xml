@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PLP_UWSTOUT>
+    <ACTIVE>
+        <NAME>Joshua Miller</NAME>
+        <position>Webmaster</position>
+        <imageLoc>https://lh5.googleusercontent.com/K4IfYU-OYrSZQIPfJR4srbC6wum8qm9sPvGKlUbBnwnw=w800-h600-no</imageLoc>
+        <major>Computer Engineering and Manufacturing Engineering</major>
+        <favColor>Blue</favColor>
+        <bio>Hello all! My name is Josh Miller and this is my bio. I am a senior at
+            UW-Stout.</bio>
+    </ACTIVE>
+    <ACTIVE>
+        <NAME>Boop</NAME>
+        <position>Member</position>
+        <imageLoc>https://lh5.googleusercontent.com/-z8VglRbdxSg/U2CS5hUq-nI/AAAAAAAAUMU/r2h9sBL1gBQ/w1073-h859-no/1956710_641173259252567_1923432307_o.jpg</imageLoc>
+        <major>Engineering</major>
+        <favColor>Yellow</favColor>
+        <bio>Hello all asdfasdfhoajs;dfjioaisd;fji oasdjfoiasjfosdf.</bio>
+    </ACTIVE>
+    <ACTIVE>
+        <NAME>Boop</NAME>
+        <position>Member</position>
+        <imageLoc>https://lh5.googleusercontent.com/-z8VglRbdxSg/U2CS5hUq-nI/AAAAAAAAUMU/r2h9sBL1gBQ/w1073-h859-no/1956710_641173259252567_1923432307_o.jpg</imageLoc>
+        <major>Engineering</major>
+        <favColor>Yellow</favColor>
+        <bio>Hello all asdfasdfhoajs;dfjioaisd;fj ioasdjfoiasjfosdf.</bio>
+    </ACTIVE>
+    <ACTIVE>
+        <NAME>Joshua Miller</NAME>
+        <position>Webmaster</position>
+        <imageLoc>https://lh5.googleusercontent.com/K4IfYU-OYrSZQIPfJR4srbC6wum8qm9sPvGKlUbBnwnw=w800-h600-no</imageLoc>
+        <major>Computer Engineering and Manufacturing Engineering</major>
+        <favColor>Blue</favColor>
+        <bio>Hello all! My name is Josh Miller and this is my bio. I am a senior at
+            UW-Stout.</bio>
+    </ACTIVE>
+    <EXEC>
+        <NAME>Daniel</NAME>
+        <position>President</position>
+        <imageLoc>https://lh5.googleusercontent.com/K4IfYU-OYrSZQIPfJR4srbC6wum8qm9sPvGKlUbBnwnw=w800-h600-no</imageLoc>
+        <major>Computer Engineering and Manufacturing Engineering</major>
+        <favColor>Blue</favColor>
+        <bio>Hello all! My name is Josh Miller and this is my bio. I am a senior at
+            UW-Stout.</bio>
+    </EXEC>
+    <EXEC>
+        <NAME>Charles</NAME>
+        <position>President</position>
+        <imageLoc>https://lh5.googleusercontent.com/K4IfYU-OYrSZQIPfJR4srbC6wum8qm9sPvGKlUbBnwnw=w800-h600-no</imageLoc>
+        <major>Computer Engineering and Manufacturing Engineering</major>
+        <favColor>Blue</favColor>
+        <bio>Hello all! My name is Josh Miller and this is my bio. I am a senior at
+            UW-Stout.</bio>
+    </EXEC>
+    <EXEC>
+        <NAME>Garrett</NAME>
+        <position>President</position>
+        <imageLoc>https://lh5.googleusercontent.com/K4IfYU-OYrSZQIPfJR4srbC6wum8qm9sPvGKlUbBnwnw=w800-h600-no</imageLoc>
+        <major>Computer Engineering and Manufacturing Engineering</major>
+        <favColor>Blue</favColor>
+        <bio>Hello all! My name is Josh Miller and this is my bio. I am a senior at
+            UW-Stout.</bio>
+    </EXEC>
+    
+    
+    <ACTIVE>
+        <NAME>Matt</NAME>
+        <position>Member</position>
+        <imageLoc>https://lh5.googleusercontent.com/-z8VglRbdxSg/U2CS5hUq-nI/AAAAAAAAUMU/r2h9sBL1gBQ/w1073-h859-no/1956710_641173259252567_1923432307_o.jpg</imageLoc>
+        <major>Engineering</major>
+        <favColor>Yellow</favColor>
+        <bio>Hello all asdfasdfhoajs;dfjioaisd;fj ioasdjfoiasjfosdf.</bio>
+    </ACTIVE>
+    
+    <ACTIVE>
+        <NAME>Bart</NAME>
+        <position>Member</position>
+        <imageLoc>https://lh5.googleusercontent.com/-z8VglRbdxSg/U2CS5hUq-nI/AAAAAAAAUMU/r2h9sBL1gBQ/w1073-h859-no/1956710_641173259252567_1923432307_o.jpg</imageLoc>
+        <major>Engineering</major>
+        <favColor>Yellow</favColor>
+        <bio>Hello all asdfasdfhoajs;dfjioaisd;fj ioasdjfoiasjfosdf.</bio>
+    </ACTIVE>
+    
+</PLP_UWSTOUT>

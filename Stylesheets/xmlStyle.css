@@ -1,0 +1,99 @@
+#brothers img {
+     width:90%;
+     height:auto;
+     margin: 0 auto;
+     border-radius: 5px;
+     box-shadow: 0px 0px 15px rgba(0, 0, 0, .9);
+ }
+
+body
+{
+	text-align: left;
+	clear:both;
+	font-family: Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:0px;
+}
+ 
+ #mainHeader
+{
+	width: 100%;
+	padding:0px;
+	margin:0px;
+	background: url('https://lh4.googleusercontent.com/-AHsSWPxvaf8/U-Atc1UYZBI/AAAAAAAAXcE/j1Z9ZCmICZc/w1358-h136-no/banner2.png');
+	background-position: top center;
+    background-repeat: no-repeat;
+    background-size: auto 340px;
+	
+}
+ 
+ #body
+ {
+     padding:0;
+     margin:0;
+ }
+
+ .darkBack {
+     
+     background:#4E006F;
+    
+ }
+ 
+ .lightBack {
+     
+     background:#EA73FF;
+    
+ }
+ 
+ .Brothers
+ {
+     padding:0;
+     margin:0;
+ }
+ 
+ #memberInfo
+ {
+     padding:0;
+
+ }
+
+
+ 
+ .NAME {
+     
+     font-size:20px;
+     background: #fff;
+     max-width:90%;
+     margin: 5px auto;
+     border-radius: 5px;
+ }
+ .color1, .color2, .color3{
+     width:300px;
+     height:400px;
+     text-align:center;
+     border-radius: 5px;
+     box-shadow: 0px 0px 50px rgba(0, 0, 0, .5);
+     float:left;
+     padding:1px;
+     margin: 5px 5px;
+ }
+ 
+ 
+ 
+ .color1 {
+     background-color:#D676FF;
+ }
+ .color2 {
+     background-color:#DEA6ED;
+  }
+ .color3 {
+     background-color:#FFFF00;
+ }
+ 
+ @media only screen and (min-width: 150px) and (max-width: 660px) 
+{
+     .color1, .color2, .color3 {
+         float:none;
+         margin: 7px auto;
+    }
+}
