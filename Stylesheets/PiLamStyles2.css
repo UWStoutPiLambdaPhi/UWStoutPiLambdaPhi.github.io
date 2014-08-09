@@ -166,6 +166,17 @@ nav .active a:link, nav .active a:visited
 	padding:0px;
 	margin:0;
 }
+#floaterNav a
+{
+	margin:0px;
+	padding:0px;
+	padding-top:2px;
+}
+#floaterNav a:hover
+{
+	text-decoration:bold;
+	font-size:110%;
+}
 
 .contentStory
 {
