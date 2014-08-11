@@ -295,9 +295,32 @@ nav .active a:link, nav .active a:visited
 	
 }
 
+@media only screen and (min-width: 450px) 
+{
+	#nameGroupImage
+	{
+		display:none;
+	}
+	
+	#nameGroupText
+	{
+		display:none;
+	}
+	
+	#mainHeader
+	{
+		
+		background-position: top center;
+	    background-repeat: no-repeat;
+	    background-size: auto 340px;
+	}
+	
+	#nonMobileHeader
+	{
+		display: inline;
+	}
 
-
-
+}
 
 @media only screen and (max-width: 485px)
 {	
@@ -313,33 +336,17 @@ nav .active a:link, nav .active a:visited
 	{
 		display: none;
 	}
+	.hideUnder660px
+	{
+		display:none;
+	}
+
 }
 
-@media only screen and (min-width: 450px) 
+@media only screen and (min-width: 660px) 
 {
-	#nameGroupImage
+	.showUnder660px
 	{
-		display:none;
-	}
-	
-	#nameGroupText
-	{
-		display:none;
-	}
-	
-	#mainHeader
-	{
-		background: url('https://lh4.googleusercontent.com/-AHsSWPxvaf8/U-Atc1UYZBI/AAAAAAAAXcE/j1Z9ZCmICZc/w1358-h136-no/banner2.png');
-		background-position: top center;
-	    background-repeat: no-repeat;
-	    background-size: auto 340px;
-	}
-	
-	#nonMobileHeader
-	{
-		display: inline;
+		display:none
 	}
 }
-
-
-
