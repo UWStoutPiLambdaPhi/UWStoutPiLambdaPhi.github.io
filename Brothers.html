@@ -94,13 +94,20 @@
 
 
             function displayMembers(divID) {
+                
+                
+                var memberType = ["EXEC", "ACTIVE", "ALUM"];
+                
+                
 
                 var src = document.getElementById(divID);
 
-                var y = xmlDoc.getElementsByTagName("EXEC")
+            for(var loc = 0; loc < 3; loc= loc+1)
+            {
+                var y = xmlDoc.getElementsByTagName(memberType[loc])
                 for (var i = 0; i < y.length; i++) {
-                    var artist = (y[i].getElementsByTagName("NAME")[0].childNodes[0].nodeValue);
-                    var title = (y[i].getElementsByTagName("favColor")[0].childNodes[0].nodeValue);
+                    var nam = (y[i].getElementsByTagName("NAME")[0].childNodes[0].nodeValue);
+                    var col = (y[i].getElementsByTagName("favColor")[0].childNodes[0].nodeValue);
                     var year = (y[i].getElementsByTagName("bio")[0].childNodes[0].nodeValue);
                     var imgUrl = (y[i].getElementsByTagName("imageLoc")[0].childNodes[0].nodeValue);
                     var position = (y[i].getElementsByTagName("position")[0].childNodes[0].nodeValue);
@@ -108,7 +115,15 @@
                     var div = document.createElement("div");
 
 
-                    div.setAttribute("class", "color3");
+                    if(memberType[loc] == "ACTIVE")
+                    {
+                        if (i % 2 === 0) div.setAttribute("class", "color1");
+                        else div.setAttribute("class", "color2");
+                    }
+                    else if(memberType[loc] == "EXEC")
+                        div.setAttribute("class", "color3");
+                    else if(memberType[loc] == "ALUM")
+                        div.setAttribute("class", "color4");
 
 
 
@@ -123,8 +138,8 @@
                     BIO.setAttribute("class", "BIO");
 
 
-                    var nam = document.createTextNode("Name: " + artist);
-                    var tit = document.createTextNode("Year: " + title);
+                    var nam = document.createTextNode(nam);
+                    var tit = document.createTextNode("Color: " + col);
                     var yea = document.createTextNode("Bio: " + year + '\n');
 
                     NAME.appendChild(nam);
@@ -156,72 +171,9 @@
 
                     src.appendChild(div);
 
-                }
+                }}
 
 
-
-                var x = xmlDoc.getElementsByTagName('ACTIVE');
-
-                for (var i = 0; i < x.length; i++) {
-                    var artist = (x[i].getElementsByTagName("NAME")[0].childNodes[0].nodeValue);
-                    var title = (x[i].getElementsByTagName("favColor")[0].childNodes[0].nodeValue);
-                    var year = (x[i].getElementsByTagName("bio")[0].childNodes[0].nodeValue);
-                    var imgUrl = (x[i].getElementsByTagName("imageLoc")[0].childNodes[0].nodeValue);
-                    var position = (x[i].getElementsByTagName("position")[0].childNodes[0].nodeValue);
-
-                    var div = document.createElement("div");
-
-
-                    if (i % 2 === 0) div.setAttribute("class", "color1");
-                    else div.setAttribute("class", "color2");
-
-
-
-                    var NAME = document.createElement("div");
-                    NAME.setAttribute("class", "NAME");
-
-                    var YEAR = document.createElement("div");
-                    YEAR.setAttribute("class", "YEAR");
-
-                    var BIO = document.createElement("div");
-                    BIO.setAttribute("class", "BIO");
-
-
-                    var nam = document.createTextNode("Name: " + artist);
-                    var tit = document.createTextNode("Year: " + title);
-                    var yea = document.createTextNode("Bio: " + year + '\n');
-
-                    NAME.appendChild(nam);
-                    YEAR.appendChild(tit);
-                    BIO.appendChild(yea);
-
-
-
-
-                    //document.getElementById("showCD").innerHTML = txt;
-
-
-                    var img = document.createElement("img");
-                    img.src = imgUrl;
-                    img.width = 50;
-                    img.height = 50;
-                    img.alt = "Hello";
-
-                    // This next line will just add it to the <body> tag
-
-
-
-
-
-                    div.appendChild(NAME);
-                    div.appendChild(img);
-                    div.appendChild(YEAR);
-                    div.appendChild(BIO);
-
-                    src.appendChild(div);
-
-
-                }
 
             }
         </script>

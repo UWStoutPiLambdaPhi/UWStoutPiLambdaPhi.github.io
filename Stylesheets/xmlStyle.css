@@ -1,10 +1,17 @@
 #brothers img {
-     width:90%;
-     height:auto;
+     height:50%;
+     width:auto;
      margin: 0 auto;
      border-radius: 5px;
      box-shadow: 0px 0px 15px rgba(0, 0, 0, .9);
  }
+ 
+#brothers img:hover {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    
+}
 
 body
 {
@@ -49,6 +56,7 @@ body
  {
      padding:0;
      margin:0;
+     overflow:hidden;
  }
  
  #memberInfo
@@ -67,7 +75,7 @@ body
      margin: 5px auto;
      border-radius: 5px;
  }
- .color1, .color2, .color3{
+ .color1, .color2, .color3, .color4{
      width:300px;
      height:400px;
      text-align:center;
@@ -76,6 +84,7 @@ body
      float:left;
      padding:1px;
      margin: 5px 5px;
+     overflow:hidden;
  }
  
  
@@ -89,10 +98,13 @@ body
  .color3 {
      background-color:#FFFF00;
  }
+ .color4 {
+     background-color:#938CA0;
+ }
  
  @media only screen and (min-width: 150px) and (max-width: 660px) 
 {
-     .color1, .color2, .color3 {
+     .color1, .color2, .color3, .color4 {
          float:none;
          margin: 7px auto;
     }

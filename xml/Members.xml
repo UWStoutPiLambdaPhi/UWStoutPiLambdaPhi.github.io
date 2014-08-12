@@ -3,82 +3,209 @@
     <ACTIVE>
         <NAME>Joshua Miller</NAME>
         <position>Webmaster</position>
-        <imageLoc>https://lh5.googleusercontent.com/K4IfYU-OYrSZQIPfJR4srbC6wum8qm9sPvGKlUbBnwnw=w800-h600-no</imageLoc>
+        <imageLoc>https://lh6.googleusercontent.com/-oRS8_c-UDIs/U0QsArGpbCI/AAAAAAAATPo/TKbE8pv9gNk/w508-h510-no/553830_569827789720448_452279258_n.jpg</imageLoc>
         <major>Computer Engineering and Manufacturing Engineering</major>
         <favColor>Blue</favColor>
-        <bio>Hello all! My name is Josh Miller and this is my bio. I am a senior at
-            UW-Stout.</bio>
+        <bio>.</bio>
     </ACTIVE>
     <ACTIVE>
-        <NAME>Boop</NAME>
+        <NAME>Zach Rigotti</NAME>
         <position>Member</position>
-        <imageLoc>https://lh5.googleusercontent.com/-z8VglRbdxSg/U2CS5hUq-nI/AAAAAAAAUMU/r2h9sBL1gBQ/w1073-h859-no/1956710_641173259252567_1923432307_o.jpg</imageLoc>
-        <major>Engineering</major>
-        <favColor>Yellow</favColor>
-        <bio>Hello all asdfasdfhoajs;dfjioaisd;fji oasdjfoiasjfosdf.</bio>
+        <imageLoc>https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfa1/t1.0-9/208957_10151836501887942_1203175048_n.jpg</imageLoc>
+        <major>Computer Engineering</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
     </ACTIVE>
     <ACTIVE>
-        <NAME>Boop</NAME>
+        <NAME>Ian Offerdahl</NAME>
         <position>Member</position>
-        <imageLoc>https://lh5.googleusercontent.com/-z8VglRbdxSg/U2CS5hUq-nI/AAAAAAAAUMU/r2h9sBL1gBQ/w1073-h859-no/1956710_641173259252567_1923432307_o.jpg</imageLoc>
-        <major>Engineering</major>
-        <favColor>Yellow</favColor>
-        <bio>Hello all asdfasdfhoajs;dfjioaisd;fj ioasdjfoiasjfosdf.</bio>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
     </ACTIVE>
     <ACTIVE>
-        <NAME>Joshua Miller</NAME>
-        <position>Webmaster</position>
-        <imageLoc>https://lh5.googleusercontent.com/K4IfYU-OYrSZQIPfJR4srbC6wum8qm9sPvGKlUbBnwnw=w800-h600-no</imageLoc>
-        <major>Computer Engineering and Manufacturing Engineering</major>
-        <favColor>Blue</favColor>
-        <bio>Hello all! My name is Josh Miller and this is my bio. I am a senior at
-            UW-Stout.</bio>
+        <NAME>Moryelle Washington</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
     </ACTIVE>
     <EXEC>
-        <NAME>Daniel</NAME>
+        <NAME>Daniel Degallier</NAME>
         <position>President</position>
-        <imageLoc>https://lh5.googleusercontent.com/K4IfYU-OYrSZQIPfJR4srbC6wum8qm9sPvGKlUbBnwnw=w800-h600-no</imageLoc>
-        <major>Computer Engineering and Manufacturing Engineering</major>
-        <favColor>Blue</favColor>
-        <bio>Hello all! My name is Josh Miller and this is my bio. I am a senior at
-            UW-Stout.</bio>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
     </EXEC>
-    <EXEC>
-        <NAME>Charles</NAME>
-        <position>President</position>
-        <imageLoc>https://lh5.googleusercontent.com/K4IfYU-OYrSZQIPfJR4srbC6wum8qm9sPvGKlUbBnwnw=w800-h600-no</imageLoc>
-        <major>Computer Engineering and Manufacturing Engineering</major>
-        <favColor>Blue</favColor>
-        <bio>Hello all! My name is Josh Miller and this is my bio. I am a senior at
-            UW-Stout.</bio>
-    </EXEC>
-    <EXEC>
-        <NAME>Garrett</NAME>
-        <position>President</position>
-        <imageLoc>https://lh5.googleusercontent.com/K4IfYU-OYrSZQIPfJR4srbC6wum8qm9sPvGKlUbBnwnw=w800-h600-no</imageLoc>
-        <major>Computer Engineering and Manufacturing Engineering</major>
-        <favColor>Blue</favColor>
-        <bio>Hello all! My name is Josh Miller and this is my bio. I am a senior at
-            UW-Stout.</bio>
-    </EXEC>
+    <ACTIVE>
+        <NAME>Coltan Shoenike</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    <ACTIVE>
+        <NAME>Ryan Moenning</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
     
     
     <ACTIVE>
-        <NAME>Matt</NAME>
+        <NAME>Cody Druanceau</NAME>
         <position>Member</position>
-        <imageLoc>https://lh5.googleusercontent.com/-z8VglRbdxSg/U2CS5hUq-nI/AAAAAAAAUMU/r2h9sBL1gBQ/w1073-h859-no/1956710_641173259252567_1923432307_o.jpg</imageLoc>
-        <major>Engineering</major>
-        <favColor>Yellow</favColor>
-        <bio>Hello all asdfasdfhoajs;dfjioaisd;fj ioasdjfoiasjfosdf.</bio>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
     </ACTIVE>
     
     <ACTIVE>
-        <NAME>Bart</NAME>
+        <NAME>Jacob Erickson</NAME>
         <position>Member</position>
-        <imageLoc>https://lh5.googleusercontent.com/-z8VglRbdxSg/U2CS5hUq-nI/AAAAAAAAUMU/r2h9sBL1gBQ/w1073-h859-no/1956710_641173259252567_1923432307_o.jpg</imageLoc>
-        <major>Engineering</major>
-        <favColor>Yellow</favColor>
-        <bio>Hello all asdfasdfhoajs;dfjioaisd;fj ioasdjfoiasjfosdf.</bio>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
     </ACTIVE>
+    
+    <ACTIVE>
+        <NAME>Nicholas Walters</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    
+    <EXEC>
+        <NAME>Garrett Williams</NAME>
+        <position>Marshal</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </EXEC>
+    <ACTIVE>
+        <NAME>Eric Boots</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    <ACTIVE>
+        <NAME>Benjamin Burich</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    <EXEC>
+        <NAME>Charles Deniger</NAME>
+        <position>Treasurer</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </EXEC>
+    <ACTIVE>
+        <NAME>De'Andre Jones</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    <ACTIVE>
+        <NAME>Austin Taylor</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    <ACTIVE>
+        <NAME>Joshua Diegel</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    <ACTIVE>
+        <NAME>Mike Jansen</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    <ACTIVE>
+        <NAME>Danny Jurik</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    <ACTIVE>
+        <NAME>Jason Snell</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    <ACTIVE>
+        <NAME>Brandon Hicks</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    <EXEC>
+        <NAME>Daniel Schmidt</NAME>
+        <position>Scribe</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </EXEC>
+    <ALUM>
+        <NAME>Sam Hermann</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ALUM>
+    <EXEC>
+        <NAME>Jonathan Cardenas</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </EXEC>
+    <ACTIVE>
+        <NAME>Ray Venn</NAME>
+        <position>Member</position>
+        <imageLoc>#</imageLoc>
+        <major>.</major>
+        <favColor>.</favColor>
+        <bio>.</bio>
+    </ACTIVE>
+    
+    
     
 </PLP_UWSTOUT>
